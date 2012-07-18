@@ -273,5 +273,5 @@
 
   <project path="android" name="Zokormazo/android" />
 
-  <project path="device/nvsbl/gemini" name="Zokormazo/android_device_nvsbl" />
+  <project path="device/nvsbl/gemini" name="Zokormazo/android_device_nvsbl_gemini" />
 </manifest>
