@@ -329,4 +329,5 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
   <project path="device/nvsbl/gemini" name="Zokormazo/android_device_nvsbl_gemini" />
+  <project path="device/samsung/maguro" name="Zokormazo/android_device_samsung_maguro" />
 </manifest>
